@@ -1,0 +1,35 @@
+﻿  Main project (ооп).cpp
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Snake.h(62,22): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Snake.h(62,34): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Snake.h(67,30): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Snake.h(67,51): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Apple.h(29,18): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Apple.h(29,21): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Game.h(30,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Game.h(35,32): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Game.h(61,32): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Game.h(112,38): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\Game.h(112,61): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+  (компиляция исходного файла "Main project (ооп).cpp")
+  
+  Main project (ооп).vcxproj -> C:\Users\sdk26\Desktop\Код\C++\Main project (ооп)\x64\Debug\Main project (ооп).exe

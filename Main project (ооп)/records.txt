@@ -1,0 +1,12 @@
+Apples harvested: 0
+Length of the snake: 1
+------------------------------
+Apples harvested: 1
+Length of the snake: 2
+------------------------------
+Apples harvested: 9
+Length of the snake: 10
+------------------------------
+Apples harvested: 1
+Length of the snake: 2
+------------------------------
